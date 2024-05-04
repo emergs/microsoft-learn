@@ -1,0 +1,15 @@
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\bin\Release\net7.0\RegistroEmLogERastreamento.exe
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\bin\Release\net7.0\RegistroEmLogERastreamento.deps.json
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\bin\Release\net7.0\RegistroEmLogERastreamento.runtimeconfig.json
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\bin\Release\net7.0\RegistroEmLogERastreamento.dll
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\bin\Release\net7.0\RegistroEmLogERastreamento.pdb
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\RegistroEmLogERastreamento.csproj.AssemblyReference.cache
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\RegistroEmLogERastreamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\RegistroEmLogERastreamento.AssemblyInfoInputs.cache
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\RegistroEmLogERastreamento.AssemblyInfo.cs
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\RegistroEmLogERastreamento.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\RegistroEmLogERastreamento.dll
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\refint\RegistroEmLogERastreamento.dll
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\RegistroEmLogERastreamento.pdb
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\RegistroEmLogERastreamento.genruntimeconfig.cache
+C:\Users\Emerson Santos\Documents\desenvolvimento-web\microsoft-learn\criar-aplicativo-dotnet-com-csharp\RegistroEmLogERastreamento\obj\Release\net7.0\ref\RegistroEmLogERastreamento.dll
